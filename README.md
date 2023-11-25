@@ -9,16 +9,16 @@ The "Product Review Analysis of Northwind Traders Enterprise Ltd." repository co
 Evaluate the performance of product sales analysis of Northwind traders enterprise in terms of key performance indicators (KPIs). Identify trends, patterns and anomalies in the company's product performance data over time. Generate actionable insights to inform data-driven decision-making. Enhance data transparency and accessibiity for stakeholders.
 
 **DATA EXTRACTION:**  <br>
-Aggregated sales data was extracted from the company's SQL server.
+Aggregated customer review data from multiple sources, including surveys, websites, and social media platforms including the company's SQL server.
 
 **DATA CLEANSING:**  <br> 
-The column distribution, column profile and column quality was elucidated from the view ribbon of the power query editor. This was done to ascertain and check for the possibility of errors, null values, empty spaces, data uniqueness and distinctiveness, outliers, and inconsistencies.
+Performed data cleaning operations to handle inconsistencies, remove duplicates, and prepare the data for analysis. The column distribution, column profile and column quality was elucidated from the view ribbon of the power query editor. This was done to ascertain and check for the possibility of errors, null values, empty spaces, data uniqueness and distinctiveness, outliers, and inconsistencies.
 
 **DATA TRANSFORMATION**  <br>
 Transformation was done on the already cleansed data. The data had a lot of issues and required thorough cleansing, formatting, styling and re-organisation. This was done with a very high level of professionalism in order to maintain the integrity and originality of the data. The Transformed Data was then saved and made ready for the data modelling
 
 **DATA MODELING:**  <br> 
-Designed a robust data model, incorporating various tables, relationships, and calculated columns for analysis. Power BI's data modeling capabilities were used to create relationships between different datasets. Data hierachy and date table creation using DAX was done,enabling a holistic view of the organization's performance.
+Designed an efficient data model with relationships to connect different data tables for seamless analysis. Designed a robust data model, incorporating various tables, relationships, and calculated columns for analysis. Power BI's data modeling capabilities were used to create relationships between different datasets. Data hierachy and date table creation using DAX was done,enabling a holistic view of the organization's performance.
 
 **VISUALIZATION AND ANALYSIS:**  <br> 
 Created interactive visualizations, including bar charts, line graphs, and geographical maps, to represent key performance, trends, and regional comparisons. These visuals allowed for easy interpretation of performance trends. The core focus of the project was on analyzing performance data over time. This involved creating time-based visualizations to track changes, seasonality, and growth in various KPIs. Key performance indicators (KPIs) were analyzed over time to access the company's overall performance in the regions where sales took place.
