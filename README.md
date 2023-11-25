@@ -49,3 +49,5 @@ Data: Contains raw and cleaned data files.
 Scripts: Includes SQL scripts used for data extraction and transformation.
 Reports: Contains Power BI report files.
 Documentation: Includes project documentation, data dictionary, and analysis methodology.
+
+![Screenshot (90)](https://github.com/olulekeomotoba/Project-2/assets/149272576/2cfd8a10-f892-4766-8809-0366cb580944)
